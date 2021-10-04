@@ -1,8 +1,8 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad from Kolkata,India. I am a Machine Learning Enthusiast.
+My name is Lokesh Ojha and I am a Computer Science Engineering Undergrad from Kolkata,India. I am a Machine Learning Enthusiast.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hidayat7z" alt="hidayat7z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshojha" alt="lokesh" /> </p>
 
 ---
 <!--
@@ -17,7 +17,7 @@ My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad f
 
 ### 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidayat7z&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=My+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshojha&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=My+GitHub+Stats&show_icons=true" />
 
 ---
 
@@ -29,15 +29,13 @@ My name is Md Hidayat Rasool and I am a Computer Science Engineering Undergrad f
  
    </a>
   <a href="https://www.linkedin.com/in/hidayat7/%22%3E
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img alt="Linkedin"/>
   </a>
 
-  <a href="https://twitter.com/hidayat7z%22%3E
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
+  
 
-  <a href="https://www.youtube.com/channel/UC6QY-xBQC6_b79u43Gurhng%22%3E
-    <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  <a href="https://www.youtube.com/channel/UCodrufyXttj_XMRvPEvWkyg
+    <img alt="Youtube" />
   </a>
  <!--
   <a href="https://www.instagram.com/aleks.popovic/%22%3E
